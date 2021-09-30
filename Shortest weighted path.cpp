@@ -77,7 +77,8 @@ int main()
     cin >> n;
     cout << "Enter the number of ribs: ";
     cin >> m;
-    cout << "Enter the initial ">> r;
+    cout <<  "Enter the initial V for starting shortest path: ";
+    cin >> r;
 
     Spisuk_ot_Susedi();
 
